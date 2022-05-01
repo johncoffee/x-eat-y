@@ -2,7 +2,7 @@
 
 A collaborative efford to maintain a curated list of videos showing one animal eating another.
 
-Bonus points for finding an inverted eating diretion! Bonus points for extending a chain of animal eating animal..
+Bonus points for finding an inverted eating direction! Bonus points for extending a chain of animal eating animal..
 
 *X / Y / link*
 
