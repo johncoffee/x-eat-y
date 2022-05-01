@@ -4,7 +4,7 @@ A collaborative efford to maintain a curated list of videos showing one animal e
 
 *X / Y / link*
 
-[Seagull](https://en.wikipedia.org/wiki/Gull) [Rabbit](https://www.youtube.com/watch?v=uSFPyACRXbk) https://www.youtube.com/watch?v=uSFPyACRXbk
+[Seagull](https://en.wikipedia.org/wiki/Gull) [Rabbit](https://en.wikipedia.org/wiki/Rabbit) https://www.youtube.com/watch?v=uSFPyACRXbk
 
 
 # Contributing
