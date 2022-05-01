@@ -2,9 +2,9 @@
 
 *Points*  
 
-1 point for finding a new entry of animal eating animal.
-3 points for finding an inverted eating direction!
-3 points for extending a chain of animal eating animal.
+1 point for finding a new entry of animal eating animal.  
+3 points for finding an inverted eating direction!  
+3 points for extending a chain of animal eating animal.  
 
 *X / Y / link*
 
