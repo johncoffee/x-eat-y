@@ -6,9 +6,10 @@ Bonus points for finding an inverted eating direction! Bonus points for extendin
 
 *X / Y / link*
 
-[Pelican](https://en.wikipedia.org/wiki/Pelican)  [Pidgeon](https://en.wikipedia.org/wiki/Columbidae)  https://www.youtube.com/watch?v=phUs2kIGY9M  
+[Pelican](https://en.wikipedia.org/wiki/Pelican)  [Pigeon](https://en.wikipedia.org/wiki/Columbidae)  https://www.youtube.com/watch?v=phUs2kIGY9M  
 [Seagull](https://en.wikipedia.org/wiki/Gull)     [Rabbit](https://en.wikipedia.org/wiki/Rabbit)       https://www.youtube.com/watch?v=uSFPyACRXbk    
-[Seagull](https://en.wikipedia.org/wiki/Gull)     [Pidgeon](https://en.wikipedia.org/wiki/Columbidae)  https://www.youtube.com/watch?v=bWb4pNMyHgQ  
+[Seagull](https://en.wikipedia.org/wiki/Gull)     [Pigeon](https://en.wikipedia.org/wiki/Columbidae)  https://www.youtube.com/watch?v=bWb4pNMyHgQ  
+
  
 # Conclusion
 
@@ -17,3 +18,7 @@ Nature is scary.
 # Contributing
 
 yes plz
+
+# whois
+
+
